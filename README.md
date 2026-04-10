@@ -19,19 +19,26 @@ Technical Skills Used:
 3) Bootstrap 5
 4) HTML5 & CSS3
 
-Setup Instructions
+Setup Instructions:
 
-step-1) Follow these steps to run the project locally:
-step-2) Clone the repository: git clone https://github.com/tejareddy121121/Mini-Trello-App.git
-step-3) stepNavigate to project folder: cd Mini-Trello-App/task-flow
-step-4) Install dependencies: npm install
-step-5) Start the development server: npm run dev
-step-6) Open in browser: http://localhost:5173
+Follow these steps to run the project locally:
 
-Screenshots
+step-1) Clone the repository: git clone https://github.com/tejareddy121121/Mini-Trello-App.git
+
+step-2) stepNavigate to project folder: cd Mini-Trello-App/task-flow
+
+step-3) Install dependencies: npm install
+
+step-4) Start the development server: npm run dev
+
+step-5) Open in browser: http://localhost:5173
+
+Screenshots:
 
 DeskTop View: ScreenShots/DeskTop.png
+
 TouchPad View: ScreenShots/TouchPad.png
+
 Mobile View: ScreenShots/Mobile.png
 
 Developed By A Teja Reddy
