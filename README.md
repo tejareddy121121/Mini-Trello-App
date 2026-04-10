@@ -35,10 +35,10 @@ step-5) Open in browser: http://localhost:5173
 
 Screenshots:
 
-DeskTop View: ScreenShots/DeskTop.png
+DeskTop View: screenshots/deskTop.png
 
-TouchPad View: ScreenShots/TouchPad.png
+TouchPad View: screenshots/touchPad.png
 
-Mobile View: ScreenShots/Mobile.png
+Mobile View: screenshots/mobile.png
 
 Developed By A Teja Reddy
